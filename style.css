@@ -1,0 +1,54 @@
+body {
+    background-color: #b65b90;
+    margin: 20%;
+}
+.container img{
+    /* height: 50%;
+    width: 50%;
+     */
+     display: inline-block;
+			width: 100%;
+            box-shadow: 10px 10px 10px hotpink;
+}
+#name{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+#caption{
+    font-size: 17px;
+			font-family: Gill Sans;
+			color: black;
+            text-align: center;
+            padding-top: 10px;
+}
+.tribute-data{
+    background-color: rgb(46, 139, 87, 0.25);
+			box-shadow: 10px 10px 10px #98FB98;
+            box-sizing: border-box;
+			font-family: Georgia;
+			padding: 25px 25px 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+}
+.tribute-data h1{
+    
+    text-align: center;
+    text-shadow: 5px 5px 10px red ;
+    font-size: 7vh;
+    color: beige;
+
+
+}
+/* .tribute-data p{ */
+    /* text-align: center; */
+    /* padding-left: 30px; */
+
+
+
+
+/* } */
+#tribute-link{
+    text-decoration: none;
+            color: black;
+}
